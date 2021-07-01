@@ -1,8 +1,4 @@
-﻿#myHeader{
-  padding-top:0px;
-}
-
-.pac-container {
+﻿.pac-container {
   z-index: 2147483647!important;
 }
 #map_box button {
